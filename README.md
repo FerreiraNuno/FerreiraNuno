@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @FerreiraNuno
+## Hi, I’m @FerreiraNuno
 I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen, Germany.
 
 
@@ -14,8 +14,9 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 
 
 ## Hobbies
-- Glider Pilot in Bad Nauheim
-- Making Music
+- 🛩️ Glider Pilot in Bad Nauheim
+- 🎧 Making Music
+
 
 
 ### 📫 How to reach me: nuno.morais.ferreira@mni.thm.de
