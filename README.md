@@ -19,7 +19,7 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 
 
 
-### 📫 How to reach me: nuno.morais.ferreira@mni.thm.de
+## How to reach me: nuno.morais.ferreira@mni.thm.de
 
 <!---
 FerreiraNuno/FerreiraNuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
