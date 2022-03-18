@@ -19,6 +19,7 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 
 
 ## Hobbies
+- ♟️ Chess
 - 🛩️ Glider Pilot in Bad Nauheim
 - 🎧 Making Music
 
