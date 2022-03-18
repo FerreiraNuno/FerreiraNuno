@@ -14,8 +14,8 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 
 
 ## Interests
-- Machine Learning
-- Industry 4.0
+- 📈 Machine Learning
+- 🏭 Industry 4.0
 
 
 ## Hobbies
