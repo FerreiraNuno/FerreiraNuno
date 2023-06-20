@@ -9,8 +9,8 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 
 
 ## My-Tech-Stack
-- 👨‍💻 Java, Python, C, Type-/JavaScript
-- 💽 MySql
+- 👨‍💻 Java, Python, C, React, Angular
+- 💽 MySql, PL/SQL, Firebase
 
 
 ## Interests
