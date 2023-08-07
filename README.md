@@ -3,6 +3,8 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 
 
 ## My Projects
+- [**Fahrtenbuch**](https://github.com/FerreiraNuno/Fahrtenbuch-Android): Car-Ride tracker with automatic ride detection and car-usage statistics.
+- [**Vintage-Car-Community**](https://github.com/FerreiraNuno/vintage-car-community): Platform for Oldtimer Storage managment. Built with Angular-Firebase.
 - [**TicTacToe-AI:**](https://github.com/FerreiraNuno/TicTacToe-AI) Game of TicTacToe with GUI where the Computer uses the Minimax-Algorithm.
 - [**Tetris-in-Processing**:](https://github.com/FerreiraNuno/Tetris-in-Processing) Fully functional Tetris Game using the "Processing" Java Library.
 - [**Discord-Music-Quiz**](https://github.com/FerreiraNuno/Discord-Music-Quiz): Discord Bot to play the Song Guessing Game.
