@@ -8,18 +8,15 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 - [**Tetris-in-Processing**:](https://github.com/FerreiraNuno/Tetris-in-Processing) Fully functional Tetris Game using the "Processing" Java Library.
 - [**Discord-Music-Quiz**](https://github.com/FerreiraNuno/Discord-Music-Quiz): Discord Bot to play the Song Guessing Game.
 
-
-## My-Tech-Stack
-- 👨‍💻 Java, Python, C, React, Angular
-- 💽 MySql, PL/SQL, Firebase
-
-
 ## Interests
-- 📈 Machine Learning
-- 🎲 Game Theory
 - ♟️ Chess
 - 🛩️ Aviation
 - 🎧 Making Music
+- 🦄 UI-Design
+
+## My-Tech-Stack
+- 👨‍💻 Vue, Python, Java, C
+- 💽 MySQL, PL/SQL, Firebase
 
 
 ## How to reach me
