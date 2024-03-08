@@ -15,8 +15,8 @@ I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen
 - 🦄 UI-Design
 
 ## My-Tech-Stack
-- 👨‍💻 Vue, Python, Java, C
-- 💽 MySQL, PL/SQL, Firebase
+- 👨‍💻 VueJS, Python, Java
+- 💽 MySQL, PL/SQL
 
 
 ## How to reach me
