@@ -1,4 +1,4 @@
-## Hi, I’m @FerreiraNuno
+## Hi, I’m Nuno Ferreira
 I am a Comp-Sci Student at the ´Technische Hochschule Mittelhessen´ in Gießen, Germany.
 
 
